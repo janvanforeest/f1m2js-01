@@ -1,0 +1,13 @@
+body{
+    background-color: #03dd00;
+}
+
+#container{
+    background-color: lightgreen;
+    width: 900px;
+    height: 600px;
+    margin: 50px auto auto auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: initial 2px;
+}
