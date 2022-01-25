@@ -1,0 +1,9 @@
+body{
+    background-color: lightgreen;
+}
+
+#container{
+    background-color: darkmagenta;
+    width: 700px;
+    margin: auto;
+}
