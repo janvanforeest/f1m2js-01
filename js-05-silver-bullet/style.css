@@ -9,5 +9,9 @@ body{
     margin: 50px auto auto auto;
     display: grid;
     grid-template-columns: auto auto;
-    border: initial 2px;
+    border: inset 2px gray; 
+}
+
+#myinteraction{
+    padding: 10px;
 }
